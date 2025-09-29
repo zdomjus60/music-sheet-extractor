@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+virtualenv/
+venv/
+*.py[cod]
+
+# Output files
+*.pdf
+*.webm
+*.mp4
+*.mkv
+
+# Temporary files
+temp_extracted_pages/
+
+# Local configuration
+video_list.txt
