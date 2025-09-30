@@ -8,7 +8,7 @@ It works by detecting scene changes in the video, which usually correspond to pa
 
 1.  Clone the repository:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/zdomjus60/music-sheet-extractor
     ```
 2.  Navigate to the project directory:
     ```bash
